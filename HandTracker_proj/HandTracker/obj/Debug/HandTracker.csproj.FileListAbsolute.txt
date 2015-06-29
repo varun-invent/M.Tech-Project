@@ -1,0 +1,32 @@
+c:\users\varun kumar\documents\visual studio 2012\Projects\HandTracker\HandTracker\bin\Debug\HandTracker.exe.config
+c:\users\varun kumar\documents\visual studio 2012\Projects\HandTracker\HandTracker\bin\Debug\HandTracker.exe
+c:\users\varun kumar\documents\visual studio 2012\Projects\HandTracker\HandTracker\bin\Debug\HandTracker.pdb
+c:\users\varun kumar\documents\visual studio 2012\Projects\HandTracker\HandTracker\obj\Debug\HandTracker.csprojResolveAssemblyReference.cache
+c:\users\varun kumar\documents\visual studio 2012\Projects\HandTracker\HandTracker\obj\Debug\MainWindow.baml
+c:\users\varun kumar\documents\visual studio 2012\Projects\HandTracker\HandTracker\obj\Debug\MainWindow.g.cs
+c:\users\varun kumar\documents\visual studio 2012\Projects\HandTracker\HandTracker\obj\Debug\App.g.cs
+c:\users\varun kumar\documents\visual studio 2012\Projects\HandTracker\HandTracker\obj\Debug\HandTracker_MarkupCompile.cache
+c:\users\varun kumar\documents\visual studio 2012\Projects\HandTracker\HandTracker\obj\Debug\HandTracker.g.resources
+c:\users\varun kumar\documents\visual studio 2012\Projects\HandTracker\HandTracker\obj\Debug\HandTracker.Properties.Resources.resources
+c:\users\varun kumar\documents\visual studio 2012\Projects\HandTracker\HandTracker\obj\Debug\HandTracker.csproj.GenerateResource.Cache
+c:\users\varun kumar\documents\visual studio 2012\Projects\HandTracker\HandTracker\obj\Debug\HandTracker.exe
+c:\users\varun kumar\documents\visual studio 2012\Projects\HandTracker\HandTracker\obj\Debug\HandTracker.pdb
+C:\Users\Varun Kumar\documents\visual studio 2012\Projects\HandTracker\HandTracker\obj\Debug\Interop.MLApp.dll
+C:\Users\Varun Kumar\documents\visual studio 2012\Projects\HandTracker\HandTracker\obj\Debug\Interop.MWComMgr.dll
+C:\Users\Varun Kumar\documents\visual studio 2012\Projects\HandTracker\HandTracker\obj\Debug\Interop.MWComUtil.dll
+C:\Users\Varun Kumar\documents\visual studio 2012\Projects\HandTracker\HandTracker\obj\Debug\HandTracker.csproj.ResolveComReference.cache
+D:\Thesis\HandTracker_final_16 july 2014\HandTracker\bin\Debug\HandTracker.exe.config
+D:\Thesis\HandTracker_final_16 july 2014\HandTracker\obj\Debug\Interop.MLApp.dll
+D:\Thesis\HandTracker_final_16 july 2014\HandTracker\obj\Debug\HandTracker.csproj.ResolveComReference.cache
+D:\Thesis\HandTracker_final_16 july 2014\HandTracker\obj\Debug\HandTracker.exe
+D:\Thesis\HandTracker_final_16 july 2014\HandTracker\obj\Debug\HandTracker.pdb
+D:\Thesis\HandTracker_final_16 july 2014\HandTracker\bin\Debug\HandTracker.exe
+D:\Thesis\HandTracker_final_16 july 2014\HandTracker\bin\Debug\HandTracker.pdb
+D:\Thesis\HandTracker_final_16 july 2014\HandTracker\obj\Debug\HandTracker.csprojResolveAssemblyReference.cache
+D:\Thesis\HandTracker_final_16 july 2014\HandTracker\obj\Debug\MainWindow.baml
+D:\Thesis\HandTracker_final_16 july 2014\HandTracker\obj\Debug\MainWindow.g.cs
+D:\Thesis\HandTracker_final_16 july 2014\HandTracker\obj\Debug\App.g.cs
+D:\Thesis\HandTracker_final_16 july 2014\HandTracker\obj\Debug\HandTracker_MarkupCompile.cache
+D:\Thesis\HandTracker_final_16 july 2014\HandTracker\obj\Debug\HandTracker.g.resources
+D:\Thesis\HandTracker_final_16 july 2014\HandTracker\obj\Debug\HandTracker.Properties.Resources.resources
+D:\Thesis\HandTracker_final_16 july 2014\HandTracker\obj\Debug\HandTracker.csproj.GenerateResource.Cache
